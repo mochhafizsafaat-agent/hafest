@@ -1,0 +1,21 @@
+{
+  "name": "hafest-english-learning",
+  "version": "1.0.0",
+  "description": "HAFEST (Have A Fun English Study Time) - Interactive English Learning System & Vocab Bank",
+  "main": "server-vocab.js",
+  "scripts": {
+    "start": "node server-vocab.js"
+  },
+  "keywords": [
+    "english",
+    "learning",
+    "vocabulary",
+    "flashcards",
+    "hafest"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
